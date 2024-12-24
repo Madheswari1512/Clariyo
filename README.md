@@ -14,3 +14,4 @@ Framework: Kivy (Python)
 Database: SQLite
 API Integration: Twilio API
 Geolocation: Geocoder
+[Clariyo Output Video.webm](https://github.com/user-attachments/assets/adff441e-e2c8-408f-970d-11d7335d9cbc)
