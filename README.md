@@ -16,4 +16,11 @@ API Integration: Twilio API
 Geolocation: Geocoder
 
 
-[Clariyo Output Video.webm](https://github.com/user-attachments/assets/fc0ab71f-7e47-4467-b213-9799cdbdb9a9)
+[Clariyo Output Video.webm](https://github.com/user-attachments/assets/fc0ab71f-7e47-4467-b213-9799cdbdb9a9) 
+
+
+
+
+
+
+![clariyo alert message](https://github.com/user-attachments/assets/a39da1cd-5af2-4c6c-8d85-4aa4f4fea05b)
